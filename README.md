@@ -1,4 +1,4 @@
-# Plant Co. Quantity Performance Dashboard (2023)
+# Plant Co. Quantity Performance Dashboard
 
 ## **Overview**  
 This project analyzes Plant Co.'s quantity performance metrics using Power BI. The interactive dashboard highlights YTD vs. PYTD trends, GP%, and account profitability. It enables stakeholders to monitor performance across regions, months, and product types.
@@ -26,13 +26,13 @@ This project analyzes Plant Co.'s quantity performance metrics using Power BI. T
 
 ## **Screenshots**  
 ### Bottom 10 YTD vs. PYTD | Country  
-![Tree Map]([Tree Map.png](https://github.com/VandanaJada/Plant-Co.-Quantity-Performance-Dashboard/blob/main/Tree%20Map.png)
+![Tree Map](https://github.com/VandanaJada/Plant-Co.-Quantity-Performance-Dashboard/blob/main/Tree%20Map.png)
 
 ### Monthly YTD vs. PYTD Performance  
 ![Waterfall Chart](images/monthly_performance.png)
 
 ### Account Profitability Segmentation  
-![Scatter Plot]([images/account_profitability.png](https://github.com/VandanaJada/Plant-Co.-Quantity-Performance-Dashboard/blob/main/Scatter%20Plot.png))
+![Scatter Plot](https://github.com/VandanaJada/Plant-Co.-Quantity-Performance-Dashboard/blob/main/Scatter%20Plot.png)
 
 ## **How to Use**  
 1. Download the `.pbix` file from this repository.
