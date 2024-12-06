@@ -26,7 +26,7 @@ This project analyzes Plant Co.'s quantity performance metrics using Power BI. T
 
 ## **Screenshots**  
 ### Bottom 10 YTD vs. PYTD | Country  
-![Tree Map](images/bottom_10_countries.png)
+![Tree Map](Tree Map.png)
 
 ### Monthly YTD vs. PYTD Performance  
 ![Waterfall Chart](images/monthly_performance.png)
