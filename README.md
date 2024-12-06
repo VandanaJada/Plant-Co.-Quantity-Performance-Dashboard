@@ -29,7 +29,7 @@ This project analyzes Plant Co.'s quantity performance metrics using Power BI. T
 ![Tree Map](https://github.com/VandanaJada/Plant-Co.-Quantity-Performance-Dashboard/blob/main/Tree%20Map.png)
 
 ### Monthly YTD vs. PYTD Performance  
-![Waterfall Chart](https://github.com/VandanaJada/Plant-Co.-Quantity-Performance-Dashboard/blob/main/Tree%20Map.png)
+![Waterfall Chart](https://github.com/VandanaJada/Plant-Co.-Quantity-Performance-Dashboard/blob/main/Waterfall%20Chart.png)
 
 ### Account Profitability Segmentation  
 ![Scatter Plot](https://github.com/VandanaJada/Plant-Co.-Quantity-Performance-Dashboard/blob/main/Scatter%20Plot.png)
