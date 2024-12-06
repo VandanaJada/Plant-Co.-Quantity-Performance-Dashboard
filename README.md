@@ -32,7 +32,7 @@ This project analyzes Plant Co.'s quantity performance metrics using Power BI. T
 ![Waterfall Chart](images/monthly_performance.png)
 
 ### Account Profitability Segmentation  
-![Scatter Plot](images/account_profitability.png)
+![Scatter Plot]([images/account_profitability.png](https://github.com/VandanaJada/Plant-Co.-Quantity-Performance-Dashboard/blob/main/Scatter%20Plot.png))
 
 ## **How to Use**  
 1. Download the `.pbix` file from this repository.
